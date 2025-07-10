@@ -79,7 +79,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/s_w_a_r_n_o_007" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35" />
   </a>
   &nbsp;&nbsp;
